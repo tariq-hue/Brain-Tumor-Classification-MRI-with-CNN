@@ -1,7 +1,7 @@
 # 🧠 Brain Tumor Classification using CNN (TensorFlow)
 
 This project implements a Convolutional Neural Network (CNN) using **TensorFlow** to classify brain MRI scans and detect tumors.  
-The goal is to build a deep learning pipeline that assists in medical image analysis.
+The goal is to build a deep learning pipeline that assists in medical image analysis and improve training and validation results .
 
 ---
 
@@ -14,7 +14,6 @@ The goal is to build a deep learning pipeline that assists in medical image anal
 
 ---
 
-## 🚀 Getting Started
 
 ### Prerequisites
 - Python 3.8+
