@@ -21,3 +21,8 @@ The goal is to build a deep learning pipeline that assists in medical image anal
 - TensorFlow 2.x
 - NumPy, Matplotlib
 
+##🙌 Acknowledgments
+
+Dataset source: (https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?select=Testing)
+
+TensorFlow/Keras documentation
