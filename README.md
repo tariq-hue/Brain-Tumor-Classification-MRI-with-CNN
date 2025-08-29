@@ -21,9 +21,3 @@ The goal is to build a deep learning pipeline that assists in medical image anal
 - TensorFlow 2.x
 - NumPy, Matplotlib
 
-### Installation
-Clone this repo and install dependencies:
-```bash
-git clone https://github.com/your-username/brain-tensorflow-cnn.git
-cd brain-tensorflow-cnn
-pip install -r requirements.txt
